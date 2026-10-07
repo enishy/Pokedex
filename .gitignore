@@ -1,0 +1,4 @@
+#Directories ignored
+dist/
+node_modules/
+repl.log
